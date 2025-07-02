@@ -1,1 +1,2 @@
 Mgmt._ip: 10.0.0.1
+Auth_server: 10.30.3.3
